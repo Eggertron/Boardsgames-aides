@@ -4,7 +4,7 @@ During ypur turn you can do as many of the following
 
 - You can [move](#movement).
 - You can [discover a new room](#discovering-a-new-room).
-  - [Drawing a Omen|Item|Event Card](#Drawing-Omen,-Item,-and-Event-Cards)
+  - [Drawing a Omen|Item|Event Card](#drawing-omen-item-and-event-cards)
 - You can attempt a die roll.
 - You can [use items or omen cards](#Using-Items-and-Omen-Cards).
 - You can attack (once during your turn after the haunt starts).
