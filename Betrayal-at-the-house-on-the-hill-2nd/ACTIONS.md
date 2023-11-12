@@ -2,8 +2,9 @@
 
 During ypur turn you can do as many of the following
 
-- You can [move](ACTIONS.md#movement).
+- You can [move](#movement).
 - You can [discover a new room](#discovering-a-new-room).
+  - [Drawing a Omen|Item|Event Card](#Drawing-Omen,-Item,-and-Event-Cards)
 - You can attempt a die roll.
 - You can [use items or omen cards](#Using-Items-and-Omen-Cards).
 - You can attack (once during your turn after the haunt starts).
@@ -16,7 +17,7 @@ Once during your turn, you can do each of the following:
 
 At end of your turn
 
-- [Haunt Roll](ACTIONS.md#haunt-roll) (if you drew an omen card and Haunt hasnt started)
+- [Haunt Roll](#haunt-roll) (if you drew an omen card and Haunt hasnt started)
 - Release Board Control to Next Player
 
 ## Movement
@@ -31,6 +32,16 @@ When your explorer enters a doorway, and there isn't a room on the other side, l
 > Connect doorways whenever possible
 
 If the top tile can't go on the floor you're currently on, set it aside facedown in a discard pile. Keep setting tiles aside until you find one that works on your floor. (Some tiles work on more than one floor).
+
+# Drawing Omen, Item, and Event Cards
+
+A room may have a card symbol on it. The first time you discover a room with a card symbol, you must end your move in that room and draw the appropriate card.
+
+If the room has a spiral symbol , draw an event card. Read it out loud. Follow its instructions, which may require you to attempt rolls. Then discard the card unless it says otherwise or has an ongoing effect.
+
+If the room has a bull's head symbol , draw an item card. Read it out loud. Place it face up in front of you; you now have it in your possession. You may use it once immediately and once on each of your turns, unless it says otherwise.
+
+If the room has a raven symbol , draw an omen card. Read it out loud. Place it face up in front of you; you now have it in your possession. You might have to do something immediately. At the end of your turn, you must make a haunt roll.
 
 ## Using Items and Omen Cards
 
