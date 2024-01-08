@@ -1,5 +1,8 @@
 # Forbidden Island Sound Board
 
 ## Fools Landing
-https://github.com/Eggertron/Boardsgames-aides/assets/5317663/6959d263-2f12-4e6e-b2ad-b125e50aa531
+
+https://github.com/Eggertron/Boardsgames-aides/assets/5317663/0fe91da6-68ff-4fab-a243-6ab9e03b92f6
+
+
 
